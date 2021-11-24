@@ -1,0 +1,28 @@
+body{
+
+    background-color: rgb(35, 201, 145);
+}
+h1{
+    color: rgb(89, 171, 173);
+    text-align: center;
+
+}
+
+h2{
+    color: rgb(39, 83, 163);
+    text-align: center;
+
+}
+
+img.sinistra{
+    width: 300px;
+    border-radius: 50px;
+    float: left;
+    margin-right:25px ;
+
+}
+
+em{
+  
+    color:lightblue ;
+}
